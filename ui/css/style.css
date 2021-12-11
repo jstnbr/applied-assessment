@@ -1,0 +1,64 @@
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 16px;
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	background: #fff;
+	color: #0e3b52;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a {
+	transition: all .25s ease-out;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0 0 1rem;
+	color: #0e3b52;
+	line-height: 1.05;
+	font-weight: 700;
+}
+
+h1 {
+	font-size: 4rem;
+}
+
+h2 {
+	font-size: 2.5rem;
+}
+
+h1 span,
+h2 span {
+	color: #fc6054;
+}
+
+p {
+	margin: 0 0 1rem;
+}
+
+img {
+	max-width: 100%;
+	vertical-align: top;
+}
+
+button,
+input {
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+}
