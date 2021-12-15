@@ -44,7 +44,7 @@
         "length_minutes": 60,
         "location": "Peachtree Tower",
         "location_format": "191 Peachtree Tower",
-        "seat_cost": 20,
+        "seat_cost": 50,
         "event_size": 250
     },
     {
@@ -56,7 +56,7 @@
         "length_minutes": 30,
         "location": "Coolray Field",
         "location_format": "Coolray Field",
-        "seat_cost": 30,
+        "seat_cost": 70,
         "event_size": 300
     },
     {
@@ -68,7 +68,7 @@
         "length_minutes": 120,
         "location": "Atlanta, GA",
         "location_format": "Atlanta Symphony Orchestr",
-        "seat_cost": 30,
+        "seat_cost": 150,
         "event_size": 350
     }
 ]
