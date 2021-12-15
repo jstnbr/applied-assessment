@@ -1,0 +1,68 @@
+[    
+    {
+        "title": "Apple Keynote",
+        "thumbnail": "ui/img/event-1.png",
+        "author": "Jane Doe",
+        "date": "2020-04-20T04:00:00.000Z",
+        "date_format": "Apr 20, 2020",
+        "length_minutes": 30,
+        "location": "Coolray Field",
+        "seat_cost": 30,
+        "event_size": 300
+    },
+    {
+        "title": "Basic Title that Truncates When...",
+        "thumbnail": "ui/img/event-2.png",
+        "author": "Eric Chan",
+        "date": "2020-05-03T04:00:00.000Z",
+        "date_format": "May 3, 2020",
+        "length_minutes": 120,
+        "location": "Coolray Field",
+        "seat_cost": 30,
+        "event_size": 350
+    },
+    {
+        "title": "Node, NPM, and You",
+        "thumbnail": "ui/img/event-1.png",
+        "author": "Jerry Head",
+        "date": "2020-08-24T04:00:00.000Z",
+        "date_format": "Aug 24, 2020",
+        "length_minutes": 60,
+        "location": "Suntrust Plaza",
+        "seat_cost": 20,
+        "event_size": 200
+    },
+    {
+        "title": "Facebook Developer Conference",
+        "thumbnail": "ui/img/event-2.png",
+        "author": "Jerry Head",
+        "date": "2021-12-31T04:00:00.000Z",
+        "date_format": "Dec 31, 2021",
+        "length_minutes": 60,
+        "location": "Suntrust Plaza",
+        "seat_cost": 20,
+        "event_size": 250
+    },
+    {
+        "title": "Apple Keynote",
+        "thumbnail": "ui/img/event-1.png",
+        "author": "Jane Doe",
+        "date": "2020-04-20T04:00:00.000Z",
+        "date_format": "Apr 20, 2020",
+        "length_minutes": 30,
+        "location": "Coolray Field",
+        "seat_cost": 30,
+        "event_size": 300
+    },
+    {
+        "title": "Basic Title that Truncates When...",
+        "thumbnail": "ui/img/event-2.png",
+        "author": "Eric Chan",
+        "date": "2020-05-03T04:00:00.000Z",
+        "date_format": "May 3, 2020",
+        "length_minutes": 120,
+        "location": "Coolray Field",
+        "seat_cost": 30,
+        "event_size": 350
+    }
+]
