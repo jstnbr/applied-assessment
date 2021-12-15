@@ -42,15 +42,15 @@ jQuery(function($) {
    * Filter posts by search text.
    */
   $('.search-events-field').on('keyup', function() {
-      var value = $(this).val().toLowerCase();
+    var value = $(this).val().toLowerCase();
 
-      $('.events-section__cell').each(function() {
-         if ($(this).find('h4').first().text().toLowerCase().search(value) > -1) {
-            $(this).show();
-            $(this).prev().last().show();
-         } else {
-            $(this).hide();
-         }
-      });
-   });
+    $('.events-section__cell').each(function() {
+      if ($(this).find('h4').first().text().toLowerCase().search(value) > -1) {
+        $(this).show();
+        $(this).prev().last().show();
+      } else {
+        $(this).hide();
+      }
+    });
+  });
 });
