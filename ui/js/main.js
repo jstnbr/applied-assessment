@@ -22,6 +22,8 @@ jQuery(function($) {
   $('.dropdown button').on('click', function(e) {
     e.preventDefault();
 
+    $('.dropdown').removeClass('active');
+
     $(this).closest('.dropdown').toggleClass('active');
   });
 
