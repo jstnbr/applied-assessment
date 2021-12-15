@@ -9,7 +9,7 @@
         "location": "Coolray Field",
         "location_format": "Coolray Field",
         "seat_cost": 30,
-        "event_size": 300
+        "event_size": 50
     },
     {
         "title": "Basic Title that Truncates When...",
@@ -21,7 +21,7 @@
         "location": "Atlanta, GA",
         "location_format": "Atlanta Symphony Orchestr",
         "seat_cost": 30,
-        "event_size": 350
+        "event_size": 100
     },
     {
         "title": "Node, NPM, and You",
@@ -33,7 +33,7 @@
         "location": "Suntrust Plaza",
         "location_format": "Suntrust Plaza",
         "seat_cost": 20,
-        "event_size": 200
+        "event_size": 150
     },
     {
         "title": "Facebook Developer Conference",
@@ -57,7 +57,7 @@
         "location": "Coolray Field",
         "location_format": "Coolray Field",
         "seat_cost": 70,
-        "event_size": 300
+        "event_size": 250
     },
     {
         "title": "Basic Title that Truncates When...",
